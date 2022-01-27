@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    background-color: grey;
+    
+}
+.nav-title{
+    height: 75px;
+    width:400px;
+}
+.nav ul{
+    display: flex;
+list-style-type:none;
+width: 350px;
+justify-content: space-between;
+}
